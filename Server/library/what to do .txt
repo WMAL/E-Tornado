@@ -1,0 +1,16 @@
+1- Go to file search 
+
+2- Copy SFolder.pas and SFolder.dcr  to C:\Program Files\Borland\Delphi7\Lib
+
+3- Open delphi  on menus seclect  component then install component.. choose  SFolder.pas.
+
+then install :)
+
+
+
+
+ftp:
+
+copy all files from ftp folder to C:\Program Files\Borland\Delphi7\Lib
+
+install FTPSRV.PAS
